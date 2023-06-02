@@ -3,6 +3,7 @@ title: "试验 Magic Copy"
 datePublished: Fri Jun 02 2023 19:03:48 GMT+0000 (Coordinated Universal Time)
 cuid: cliexokpc000009muc4kv7miy
 slug: magic-copy
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/xG8IQMqMITM/upload/a70f6a077649e9555bcf5002281fab3d.jpeg
 tags: magiccopy, 6kv6aqm, nile
 
 ---
