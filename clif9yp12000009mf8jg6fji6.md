@@ -8,9 +8,9 @@ tags: 5pyq5p2l, 5lit5zu9, 57up5rwo, 5liw55wm
 
 ---
 
-%[https://www.youtube.com/watch?v=hF_WNfcm-m0] 
-
 当初就是发现《谈古论今》是我接触到的時政評論节目中对形势预估最为精准且逻辑性历史感最强的节目，才开始长期关注的 … 之后该节目也一直保持这种风格未被超越。
+
+%[https://www.youtube.com/watch?v=hF_WNfcm-m0] 
 
 ![🌹](https://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u1f339.png align="left")
 
